@@ -1,0 +1,13 @@
+{
+    "name": "ncc/royalcars",
+    "require": {
+        "michelf/php-markdown": "1.9.0",
+        "phpunit/phpunit": "^9.5"
+    },
+    "authors": [
+        {
+            "name": "kell russel",
+            "email": "russelfally98@gmail.com"
+        }
+    ]
+}
